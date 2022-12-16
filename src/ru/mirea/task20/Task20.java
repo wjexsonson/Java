@@ -64,7 +64,7 @@ public class Task20 {
     public static void Task2() {
         System.out.println("Второе упражнение");
         System.out.println("------------------------------------");
-        System.out.println("Фамилия разработчика: Дамарад");
+        System.out.println("Фамилия разработчика: Черняков");
         Date start_time = new Date();
         start_time.setDate(14);
         start_time.setMonth(11);
