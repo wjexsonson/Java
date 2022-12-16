@@ -3,7 +3,7 @@ package ru.mirea.task1;
 сумма элементов целочисленного массива с помощью циклов
 `for`, `while`, `do while`, результат выводится на экран.*/
 import java.util.Scanner;
-public class Task_1_3 {
+public class Task_1_3  {
     public static void main(String[] args){
         Scanner scanner=new Scanner(System.in);
         int size, cycle, result=0;

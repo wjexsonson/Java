@@ -6,7 +6,7 @@ package ru.mirea.task1;
 import java.util.Scanner;
 import java.util.Arrays;
 import java.util.Random;
-public class Task_1_6 {
+public class Task_1_6  {
     public static void fillarray(int[] arr){
         for (int i=0;i<arr.length;i++){
             arr[i] = (int) (Math.random() * 100);
