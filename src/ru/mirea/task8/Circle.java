@@ -2,7 +2,7 @@ package ru.mirea.task8;
 
 import java.awt.*;
 
-class Circle extends Shape {
+class  Circle extends Shape {
     private int radius;
 
     Circle(int xPos, int yPos, int radius, Color color) {

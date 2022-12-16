@@ -2,7 +2,7 @@ package ru.mirea.task8;
 
 import java.awt.*;
 
-class Rectangle extends Shape {
+class  Rectangle extends Shape {
     private int xPos2, yPos2, length, width;
     public Rectangle(int xPos, int yPos, int width, int length, Color color){
         super(xPos, yPos, color);

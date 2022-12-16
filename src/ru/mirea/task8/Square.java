@@ -2,7 +2,7 @@ package ru.mirea.task8;
 
 import java.awt.*;
 
-class Square extends Shape {
+class Square extends  Shape {
     private int xPos2, yPos2, side;
     public Square(int xPos, int yPos, int side, Color color){
         super(xPos, yPos, color);

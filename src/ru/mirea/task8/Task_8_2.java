@@ -6,7 +6,7 @@ import java.awt.image.BufferedImage;
 import java.io.File;
 import java.awt.*;
 
-public class Task_8_2 {
+public class  Task_8_2 {
     static BufferedImage image;
     public static void main(String[] args) {
         JFrame frame =new JFrame("Task8_2");

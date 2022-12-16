@@ -3,7 +3,7 @@ package ru.mirea.task8;
 import javax.swing.JComponent;
 import java.awt.*;
 
-public abstract class Shape extends JComponent{
+public abstract class  Shape extends JComponent{
     protected int xPos, yPos;
     protected Color color;
 

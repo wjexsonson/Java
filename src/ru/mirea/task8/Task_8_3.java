@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.util.Scanner;
 
-public class Task_8_3 {
+public class  Task_8_3 {
     public static void main(String[] args) {
         String path;
         Scanner input=new Scanner(System.in);

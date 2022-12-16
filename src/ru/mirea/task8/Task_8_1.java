@@ -5,7 +5,7 @@ import java.awt.*;
 import java.util.Random;
 
 
-public class Task_8_1 {
+public class  Task_8_1 {
     public static void main(String args[]){
         JFrame frame = new JFrame("Task8_1");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
