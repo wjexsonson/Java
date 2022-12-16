@@ -17,7 +17,7 @@ public class Task_1_3 {
         }
         System.out.println("Выберите цикл, с помощью которого считать сумму массива");
         System.out.println("1 - for\n2 - while\n3 - do while");
-        cycle=scanner.nextInt();
+        cycle= scanner.nextInt();
         switch(cycle){
             case 1:
                 System.out.println("Выбран цикл for");
